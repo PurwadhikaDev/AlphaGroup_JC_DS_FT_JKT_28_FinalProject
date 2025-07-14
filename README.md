@@ -183,9 +183,6 @@ File path: main.py
   
 ---
 
-## 📬 Contact
-
-For any questions or feedback, feel free to reach out via GitHub or LinkedIn.  
-Thanks for visiting!
-
+## Links
+[Tableau Dashboard](https://public.tableau.com/app/profile/vanessa.alexandra1705/viz/Alpha_FinalProject_PortugalHotel/StayorGo?publish=yes)
 ---
