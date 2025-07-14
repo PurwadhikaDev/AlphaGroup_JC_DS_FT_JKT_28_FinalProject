@@ -124,8 +124,44 @@ Collected from:
 
 ---
 
-## 📁 Streamlit Deployment
+## 🚀 Deployment Guide: Streamlit App
+📦 Persyaratan
+Pastikan kamu telah menginstal:
+- Python ≥ 3.8
+- pip (Python package installer)
 
+🛠️ Cara Install dan Jalankan Aplikasi di Lokal
+1. Clone repository ini
+
+git clone https://github.com/PurwadhikaDev/AlphaGroup_JC_DS_FT_JKT_28_FinalProject.git
+cd AlphaGroup_JC_DS_FT_JKT_28_FinalProject
+
+2. Buat virtual environment (opsional tapi disarankan)
+
+python -m venv venv
+source venv/bin/activate      # Mac/Linux
+venv\Scripts\activate         # Windows
+
+3. Install dependencies
+
+pip install -r requirements.txt
+
+4. Jalankan aplikasi Streamlit
+streamlit run app.py
+Aplikasi akan terbuka otomatis di browser. Jika tidak, kunjungi URL:
+http://localhost:8501
+
+🌐 Deploy ke Streamlit Cloud (Optional)
+1. Buka streamlit.io dan login menggunakan akun GitHub.
+2. Klik "New app" → pilih repositori ini:
+PurwadhikaDev/AlphaGroup_JC_DS_FT_JKT_28_FinalProject
+3. Isi pengaturan berikut:
+Branch: main (atau master, sesuaikan dengan repositorimu)
+
+File path: main.py
+
+4. Klik Deploy
+💡 *Pastikan file model.pkl dan dataset (jika diperlukan) sudah di-push ke repo/public storage sebelum deploy.
 
 ---
 
