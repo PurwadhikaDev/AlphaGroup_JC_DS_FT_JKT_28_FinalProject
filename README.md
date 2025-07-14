@@ -84,6 +84,7 @@ This project develops a machine learning model that predicts booking cancellatio
 Target: is_canceled → 0 = Not Canceled, 1 = Canceled
 
 ### 🛠 Algorithms Used
+Not limited to:
 - Logistic Regression
 - Decision Tree
 - Random Forest
@@ -119,17 +120,16 @@ Collected from:
 
 ---
 
-## 📁 Repository Structure
+## 📁 Streamlit Deployment
 
 
 ---
 
-## 🚀 Future Improvements
-- Hyperparameter tuning using Optuna or GridSearchCV
+## 🚀 Features
+- Hyperparameter tuning using RandomizedSearchCV
 - Feature selection with SHAP/Permutation Importance
 - Deployment via Streamlit for real-time prediction
-- Integration with hotel PMS systems for business use
-
+  
 ---
 
 ## 📬 Contact
