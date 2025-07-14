@@ -124,6 +124,12 @@ Collected from:
 
 ---
 
+## Dependecies
+
+```
+pip install -r requirements.txt
+```
+
 ## 🚀 Deployment Guide: Streamlit App
 📦 Persyaratan
 Pastikan kamu telah menginstal:
