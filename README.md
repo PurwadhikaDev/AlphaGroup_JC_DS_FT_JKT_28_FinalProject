@@ -97,6 +97,10 @@ Not limited to:
 
 ---
 
+![Flowchart](Flowchart.png)
+
+---
+
 ## 🧾 Dataset Overview
 
 *Source*: [Hotel Booking Demand - Kaggle](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand)  
